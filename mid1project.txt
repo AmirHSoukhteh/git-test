@@ -13,4 +13,6 @@
 	git add midproject.txt
 6)
 	OK
-
+7)
+	git diff HEAD
+	git diff HEAD <special-file>
