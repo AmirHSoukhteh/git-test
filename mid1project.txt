@@ -1,0 +1,5 @@
+1)
+	mkdir git-test1
+	cd git-test1
+	git init
+
