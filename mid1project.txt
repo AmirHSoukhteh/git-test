@@ -5,4 +5,12 @@
 2)
 	git config --global user.name "AmirHSoukhteh"
 	git config --global user.name "a.h.soukhteh@gmail.com"
+3)
+	touch mid1project.txt
+4)
+	git status
+5)
+	git add midproject.txt
+6)
+	OK
 
