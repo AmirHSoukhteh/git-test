@@ -2,4 +2,7 @@
 	mkdir git-test1
 	cd git-test1
 	git init
+2)
+	git config --global user.name "AmirHSoukhteh"
+	git config --global user.name "a.h.soukhteh@gmail.com"
 
